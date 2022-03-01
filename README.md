@@ -22,4 +22,4 @@ You will be asked for Office 365 Global Reader credentials twice to connect to t
 
 **Power BI Report**
 
-Open the Office 365 Retention Power BI report file and click refresh to load your retention metadata into the report and explore the pages to see how protected your tenant is!
+Open the Office 365 Retention Power BI report file to load your retention metadata into the report and explore the pages to see how protected your tenant is!
